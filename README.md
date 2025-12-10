@@ -20,9 +20,9 @@ Ce projet utilise ces données pour analyser :
 
 Les dashboards présentent les performances globales d’Olist entre **janvier 2017 et août 2018**, uniquement sur **les commandes livrées** 
 
-![Vue d’ensemble 1](images/dashboard1_Vue d'ensemble_1.png)
+![Vue d’ensemble 1](images/dashboard1_Vue%20d%27ensemble_1.png)
 
-![Vue d’ensemble 2](images/dashboard1_Vue d'ensemble_2.png)
+![Vue d’ensemble 2](images/dashboard1_Vue%20d%27ensemble_2.png)
 
 ## 1. Indicateurs clés (KPIs)
 - **Chiffre d’affaires total : ** R$ 15,36M  
@@ -265,6 +265,7 @@ Contrairement aux vendeurs très fidèles (~76 %), les clients ont un comporteme
 
 👉 La base client est large mais peu récurrente, ce qui est typique du e-commerce multi-produits ; le faible taux de rétention est donc cohérent avec ce modèle.
 
+---
 
 # Conclusion Générale
 
