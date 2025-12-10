@@ -186,7 +186,7 @@ Les régions Sud et Sud-est, plus urbanisées, sont les plus régulières et off
 
 Ce tableau de bord permet d’évaluer la perception des clients vis-à-vis de leur expérience d’achat sur Olist, en étudiant la satisfaction globale, son évolution dans le temps et les facteurs qui expliquent les bonnes et mauvaises notes.
 
-![Satisfaction Client](ddashboard5_Analyse%20Satisfaction%20Client.png)
+![Satisfaction Client](dashboard5_Analyse%20Satisfaction%20Client.png)
 
 ## 1. Indicateurs clés (KPIs)
 - Note moyenne : **4,14 / 5** → La satisfaction est globalement bonne, mais laisse une marge d’amélioration.
