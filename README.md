@@ -20,9 +20,9 @@ Ce projet utilise ces données pour analyser :
 
 Les dashboards présentent les performances globales d’Olist entre **janvier 2017 et août 2018**, uniquement sur **les commandes livrées** 
 
-![Vue d’ensemble 1](images/dashboard1_Vue%20d%27ensemble_1.png)
+![Vue d’ensemble 1](dashboard1_Vue%20d%27ensemble_1.png)
 
-![Vue d’ensemble 2](images/dashboard1_Vue%20d%27ensemble_2.png)
+![Vue d’ensemble 2](dashboard1_Vue%20d%27ensemble_2.png)
 
 ## 1. Indicateurs clés (KPIs)
 - **Chiffre d’affaires total : ** R$ 15,36M  
@@ -55,7 +55,7 @@ Le CA est relativement varié entre plusieurs catégories, indiquant un portefeu
 
 Ce tableau de bord permet de comprendre comment se répartissent les ventes sur la plateforme Olist, quelles catégories génèrent le plus de valeur et comment évoluent le panier moyen et la demande.
 
-![Analyse des ventes](images/dashboard2_Analyse des ventes.png)
+![Analyse des ventes](dashboard2_Analyse%20des%20ventes.png)
 
 ## 1. Indicateurs clés (KPIs)
 - **CA : 15,36 M R$**  
@@ -96,7 +96,8 @@ La majorité des catégories se situent en dessous des moyennes, confirmant une 
 # III. Analyse – Paiements
 
 Ce dashboard analyse les comportements de paiement des clients sur Olist afin de comprendre quels modes de paiement génèrent le plus de valeur, comment ils influencent le panier moyen et quel est leur lien avec la satisfaction client. Il permet d’identifier les leviers clés qui stimulent les ventes, notamment l’utilisation des paiements multiples.
-![Analyse des paiements](images/dashboard3_Analyse des paiements.png)
+
+![Analyse des paiements](dashboard3_Analyse%20des%20paiements.png)
 
 ## 1. Performance des modes de paiement
 **Carte bancaire : ~80 % du CA (12,2M R$)**  
@@ -134,7 +135,7 @@ Tous les modes de paiement présentent une note moyenne stable autour de 4,1 –
 
 Ce tableau de bord analyse l’efficacité de la chaîne logistique d’Olist, en mettant en évidence les délais de livraison, les zones à risque et l’impact des retards sur les coûts.
 
-![Livraison & Logistique](images/dashboard4_Livraison & Logistique.png)
+![Livraison & Logistique](dashboard4_Livraison%20&%20Logistique.png)
 
 ## 1. Indicateurs clés (KPIs)
 -	Délai moyen de livraison : **–10,94 jours**  
@@ -185,7 +186,7 @@ Les régions Sud et Sud-est, plus urbanisées, sont les plus régulières et off
 
 Ce tableau de bord permet d’évaluer la perception des clients vis-à-vis de leur expérience d’achat sur Olist, en étudiant la satisfaction globale, son évolution dans le temps et les facteurs qui expliquent les bonnes et mauvaises notes.
 
-![Satisfaction Client](images/ddashboard5_Analyse Satisfaction Client.png)
+![Satisfaction Client](ddashboard5_Analyse%20Satisfaction%20Client.png)
 
 ## 1. Indicateurs clés (KPIs)
 - Note moyenne : **4,14 / 5** → La satisfaction est globalement bonne, mais laisse une marge d’amélioration.
@@ -219,9 +220,9 @@ Les notes 1 et 2, bien que minoritaires, révèlent des problèmes importants (r
 
 Ce dashboard explore la fidélisation des vendeurs et des clients à travers une analyse en cohortes, révélant leur niveau d’engagement et la stabilité de l’activité dans le temps.
 
-![Cohortes Vendeurs 1](images/dashboard6_cohort_Vendeurs (1).png)
+![Cohortes Vendeurs 1](dashboard6_cohort_Vendeurs%20(1).png)
 
-![Cohortes Clients 1](images/dashboard6_cohort_Clients (1).png)
+![Cohortes Clients 1](dashboard6_cohort_Clients%20(1).png)
 
 ## 1. Analyse— Cohorte Vendeurs
 - 50–75 % reviennent au mois 1  
@@ -242,9 +243,9 @@ Ce dashboard explore la fidélisation des vendeurs et des clients à travers une
 Ce dashboard complète l’analyse des cohortes en offrant une lecture géographique et comportementale de la fidélité des vendeurs et des clients.
 Il permet d’identifier les régions les plus actives, d’analyser la rétention réelle après plusieurs mois et de comparer la fidélité des vendeurs à celle des clients.
 
-![Cohortes Vendeurs 2](images/dashboard6_cohort_Vendeurs (2).png)
+![Cohortes Vendeurs 2](dashboard6_cohort_Vendeurs%20(2).png)
 
-![Cohortes Clients 2](images/dashboard6_cohort_Clients (2).png)
+![Cohortes Clients 2](dashboard6_cohort_Clients%20(2).png)
 
 ## 1. Cohorte Vendeurs – Lecture géographique
 São Paulo domine largement avec 1 746 vendeurs actifs, suivi de Paraná (333) et Minas Gerais (234), tandis que la plupart des autres États comptent moins de 200 vendeurs.
