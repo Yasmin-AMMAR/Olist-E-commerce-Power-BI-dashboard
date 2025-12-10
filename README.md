@@ -14,11 +14,14 @@ Ce projet utilise ces données pour analyser :
 - la satisfaction client  
 - la fidélité vendeurs & clients
   
+---
 
 # I. Analyse – Vue d’ensemble
 
 Les dashboards présentent les performances globales d’Olist entre **janvier 2017 et août 2018**, uniquement sur **les commandes livrées** 
+
 ![Vue d’ensemble 1](images/dashboard1_Vue d'ensemble_1.png)
+
 ![Vue d’ensemble 2](images/dashboard1_Vue d'ensemble_2.png)
 
 ## 1. Indicateurs clés (KPIs)
@@ -46,10 +49,12 @@ Le CA est relativement varié entre plusieurs catégories, indiquant un portefeu
 
 👉 Ce premier Dashboard démontre une marketplace en croissance, bien diversifiée, mais très centralisée autour de São Paulo — à la fois côté vendeurs et côté clients.
 
+---
 
 # II. Analyse – Analyse des ventes
 
 Ce tableau de bord permet de comprendre comment se répartissent les ventes sur la plateforme Olist, quelles catégories génèrent le plus de valeur et comment évoluent le panier moyen et la demande.
+
 ![Analyse des ventes](images/dashboard2_Analyse des ventes.png)
 
 ## 1. Indicateurs clés (KPIs)
@@ -86,6 +91,7 @@ Exemples : pet shop, office furniture, electronics…
 👉 L’analyse montre clairement que health beauty, watches gifts, bed bath table et sports leisure sont les principaux moteurs des ventes.
 La majorité des catégories se situent en dessous des moyennes, confirmant une forte concentration du CA sur un nombre limité de segments.
 
+---
 
 # III. Analyse – Paiements
 
@@ -122,10 +128,12 @@ Tous les modes de paiement présentent une note moyenne stable autour de 4,1 –
 
 👉 La carte bancaire est au cœur du modèle Olist : elle génère l’essentiel du CA et bénéficie fortement des paiements multiples, qui augmentent le panier moyen sans réduire la satisfaction client. Boleto reste utile mais moins rentable, tandis que voucher et debit card jouent un rôle marginal.
 
+---
 
 # IV. Analyse – Livraison & Logistique
 
 Ce tableau de bord analyse l’efficacité de la chaîne logistique d’Olist, en mettant en évidence les délais de livraison, les zones à risque et l’impact des retards sur les coûts.
+
 ![Livraison & Logistique](images/dashboard4_Livraison & Logistique.png)
 
 ## 1. Indicateurs clés (KPIs)
@@ -171,10 +179,12 @@ Les régions Sud et Sud-est, plus urbanisées, sont les plus régulières et off
 
 👉 Olist présente une logistique très performante, avec une large majorité de livraisons anticipées. Seuls quelques États (Amazonas, Pará, Maranhão) concentrent l’essentiel des retards et nécessitent des améliorations ciblées. Les retards augmentent les coûts, renforçant l’importance d’optimiser la logistique régionale. Globalement, la chaîne logistique soutient fortement la satisfaction client et la performance commerciale.
 
+---
 
 # V. Analyse – Satisfaction Client
 
 Ce tableau de bord permet d’évaluer la perception des clients vis-à-vis de leur expérience d’achat sur Olist, en étudiant la satisfaction globale, son évolution dans le temps et les facteurs qui expliquent les bonnes et mauvaises notes.
+
 ![Satisfaction Client](images/ddashboard5_Analyse Satisfaction Client.png)
 
 ## 1. Indicateurs clés (KPIs)
@@ -203,11 +213,14 @@ Les notes 1 et 2, bien que minoritaires, révèlent des problèmes importants (r
 
 👉 Olist présente une satisfaction élevée, soutenue par des livraisons rapides et un grand nombre de clients promoteurs. Les axes clés d’amélioration concernent la réduction des retards et l’analyse des avis négatifs pour renforcer encore l’expérience client.
 
+---
 
 # VI. Analyse – Cohortes (Vendeurs & Clients) – Partie 1
 
 Ce dashboard explore la fidélisation des vendeurs et des clients à travers une analyse en cohortes, révélant leur niveau d’engagement et la stabilité de l’activité dans le temps.
+
 ![Cohortes Vendeurs 1](images/dashboard6_cohort_Vendeurs (1).png)
+
 ![Cohortes Clients 1](images/dashboard6_cohort_Clients (1).png)
 
 ## 1. Analyse— Cohorte Vendeurs
@@ -222,12 +235,15 @@ Ce dashboard explore la fidélisation des vendeurs et des clients à travers une
 - Rétention globale : **1,81 %** 
 → Très faible fidélisation client → comportement “one-shot”.
 
+---
 
 # VII. Analyse – Cohortes (Vendeurs & Clients) – Partie 2
 
 Ce dashboard complète l’analyse des cohortes en offrant une lecture géographique et comportementale de la fidélité des vendeurs et des clients.
 Il permet d’identifier les régions les plus actives, d’analyser la rétention réelle après plusieurs mois et de comparer la fidélité des vendeurs à celle des clients.
+
 ![Cohortes Vendeurs 2](images/dashboard6_cohort_Vendeurs (2).png)
+
 ![Cohortes Clients 2](images/dashboard6_cohort_Clients (2).png)
 
 ## 1. Cohorte Vendeurs – Lecture géographique
